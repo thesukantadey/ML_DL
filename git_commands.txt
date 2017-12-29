@@ -1,0 +1,8 @@
+# git add file_name.txt							-- add files to repo
+# git init								--for initially adding files to repo
+# git commit -m "comment"						--commit with comment
+# git remote add origin https://github.com/thesukantadey/test.git	--add repo
+# git push -u origin master						--push in the origin
+# git push -u origin master --force					--forcing while pushing 
+# git remote rm origin							--removing repo
+ 
