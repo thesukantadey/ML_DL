@@ -5,4 +5,4 @@
 # git push -u origin master						--push in the origin
 # git push -u origin master --force					--forcing while pushing 
 # git remote rm origin							--removing repo
- 
+# git rm file_name.txt							--removing file from repo. commit statement required after this. 
